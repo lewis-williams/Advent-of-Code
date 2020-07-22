@@ -1,0 +1,4 @@
+﻿  Advent of Code Day 1 Part 1.cpp
+C:\Users\Lewis-Home\Documents\Advent of Code\Day 1\Advent of Code Day 1 Part 1\Advent of Code Day 1 Part 1\Advent of Code Day 1 Part 1.cpp(40,53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lewis-Home\Documents\Advent of Code\Day 1\Advent of Code Day 1 Part 1\Advent of Code Day 1 Part 1\Advent of Code Day 1 Part 1.cpp(54,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Advent of Code Day 1 Part 1.vcxproj -> C:\Users\Lewis-Home\Documents\Advent of Code\Day 1\Advent of Code Day 1 Part 1\Debug\Advent of Code Day 1 Part 1.exe
