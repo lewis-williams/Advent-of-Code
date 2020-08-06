@@ -1,0 +1,2 @@
+C:\Users\lewis.williams\source\repos\Advent-of-Code\Day 4\Debug\Day 4.exe
+C:\Users\lewis.williams\source\repos\Advent-of-Code\Day 4\Debug\Day 4.pdb
